@@ -1,5 +1,13 @@
-# 💫 About Me:
-CS undergraduate at IIT Sri Lanka (University of Westminster, UK),<br>focused on DevOps and Site Reliability Engineering.<br><br>I enjoy making things reliable, automated, and production-ready.<br><br>What I work with<br>Docker<br>GitHub Actions<br>Linux<br>Python<br>Flask<br>React<br>JavaScript<br>Java<br><br>And I am also trying to improve my self and curios about new changing world along with AI and curios to study and under stand most of the things.<br><br>What I am most interested in - software engineering and automation , AI engineering and trrry to adapt to the ever evolving fast world
+# 💫 About Me
+
+Computer Science undergraduate at IIT Sri Lanka (affiliated with the University of Westminster, UK), specializing in **DevOps, Site Reliability Engineering (SRE), and Cloud Automation**.
+
+I build systems that are reliable, automated, and ready for production. Passionate about bridging development and operations, exploring AI-assisted engineering workflows, and adapting rapidly to emerging tech.
+
+* 🔭 **Focus Areas:** CI/CD pipelines, containerization, cloud infrastructure, and reliable backend systems
+* 🛠️ **Current Toolkit:** Docker, GitHub Actions, Linux, Python, Flask, Node.js, and React
+* 🧠 **Learning & Exploring:** AI engineering, system observability, and scalable infrastructure
+* 💬 **Ask me about:** Automation, Linux environments, and full-stack integration
 
 
 ## 🌐 Socials:
