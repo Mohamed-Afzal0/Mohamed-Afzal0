@@ -1,26 +1,226 @@
-# 💫 About Me
+<!--
+# Mohamed Afzal — GitHub Profile README
+-->
 
-Computer Science undergraduate at IIT Sri Lanka (affiliated with the University of Westminster, UK), specializing in **DevOps, Site Reliability Engineering (SRE), and Cloud Automation**.
+<div align="center">
 
-I build systems that are reliable, automated, and ready for production. Passionate about bridging development and operations, exploring AI-assisted engineering workflows, and adapting rapidly to emerging tech.
+# Hi, I'm Mohamed Afzal 👋
 
-* 🔭 **Focus Areas:** CI/CD pipelines, containerization, cloud infrastructure, and reliable backend systems
-* 🛠️ **Current Toolkit:** Docker, GitHub Actions, Linux, Python, Flask, Node.js, and React
-* 🧠 **Learning & Exploring:** AI engineering, system observability, and scalable infrastructure
-* 💬 **Ask me about:** Automation, Linux environments, and full-stack integration
+### Computer Science Undergraduate • Software Engineering • Full-Stack Development
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Building+web+and+mobile+applications;Learning+full-stack+software+engineering;Exploring+automation+and+AI-assisted+development;Always+learning%2C+building%2C+and+improving" alt="Typing animation" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_mohamed_afzal_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohamed-afzal-0b7372305/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:afzalsfm@gmail.com) 
+<p>
+  <a href="https://mohamed-afzal-lovat.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-2F81F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mohamed-afzal-0b7372305/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:afzalsfm@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Mohamed-afzal0&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Mohamed-afzal0&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mohamed-afzal0&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Mohamed-afzal0&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+I'm a **Year 3 BSc (Hons) Computer Science undergraduate at IIT Sri Lanka**, affiliated with the University of Westminster.
+
+I'm primarily interested in **software engineering and full-stack development**, with stronger experience on the frontend and growing experience across backend development, databases, deployment, and automation.
+
+I enjoy learning by building projects and experimenting with new tools. I'm particularly interested in how **automation and AI-assisted development** can improve the way software is built, tested, and deployed.
+
+### What I'm currently focused on
+
+* 🔨 Building practical web and mobile applications
+* ⚛️ Strengthening my React and JavaScript skills
+* 🌐 Developing my backend knowledge with Node.js and APIs
+* 🗄️ Working with databases and application data
+* 🐳 Learning more about Docker and CI/CD workflows
+* 🤖 Exploring AI-assisted development and automation
+* 📚 Continuously learning through projects and hands-on experimentation
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript,python,java,html,css,sql" alt="Programming languages"/>
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,materialui,reactnative" alt="Frontend technologies"/>
+</p>
+
+### Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,firebase,supabase,mysql" alt="Backend and database technologies"/>
+</p>
+
+### Development & Deployment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,linux,vercel,railway" alt="Development and deployment tools"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 MindWave — Student Mental Health App
+
+A cross-platform student wellness application developed as a university group project.
+
+**My role:** Team Leader
+
+**Highlights:**
+
+* Led a **6-member development team**
+* Developed features using **React Native and Expo**
+* Integrated the **OpenAI API** for an AI chatbot experience
+* Worked with backend services and persistent data storage
+* Used **Docker** for backend containerization
+* Deployed backend services through **Railway**
+* Used **GitHub Actions** for automated development workflows
+
+🔗 **[View Project](https://mindwave-app.com)**
+
+---
+
+### 📊 Server Monitor Dashboard
+
+An independent project created to strengthen my understanding of backend development, system monitoring, APIs, and containerization.
+
+**Built with:**
+
+`Python` `Flask` `psutil` `JavaScript` `Chart.js` `Docker` `Docker Compose`
+
+**Features:**
+
+* Real-time CPU, memory, disk, and network monitoring
+* Flask REST API for system telemetry
+* Interactive Chart.js dashboard
+* Docker Compose-based local deployment
+* Threshold-based browser notifications
+
+🔗 **[View Repository](https://github.com/Mohamed-Afzal0/Server-Monitor)**
+
+---
+
+### 🌐 Personal Portfolio
+
+My personal developer portfolio built with React and Vite.
+
+**Highlights:**
+
+* Responsive React interface
+* Animated UI using Framer Motion
+* Project showcase and contact functionality
+* GitHub-based deployment through Vercel
+* Docker and GitHub Actions used for development and CI/CD practice
+
+🔗 **[Live Website](https://mohamed-afzal-lovat.vercel.app)**
+🔗 **[Source Code](https://github.com/Mohamed-Afzal0/Mohamed_Afzal)**
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<a href="https://github.com/Mohamed-Afzal0">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Afzal0&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true" alt="Mohamed Afzal's GitHub statistics"/>
+</a>
+
+<a href="https://github.com/Mohamed-Afzal0">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Afzal0&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Mohamed Afzal's top languages"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Mohamed-Afzal0&theme=github-dark-blue&hide_border=true" alt="Mohamed Afzal's GitHub contribution streak"/>
+
+</div>
+
+---
+
+## 📊 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-Afzal0&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
+
+</div>
+
+---
+
+## 🎯 Currently Learning
+
+```text
+Software Engineering
+├── Full-Stack Development
+│   ├── React
+│   ├── JavaScript
+│   ├── Node.js
+│   └── APIs
+│
+├── Databases
+│   ├── SQL
+│   ├── Firebase
+│   └── Supabase
+│
+├── Development Practices
+│   ├── Git & GitHub
+│   ├── Docker
+│   └── CI/CD
+│
+└── Exploring
+    ├── AI-assisted development
+    ├── Automation
+    └── Modern developer tooling
+```
+
+---
+
+## 🤝 Let's Connect
+
+I'm currently interested in **software engineering, full-stack development, and opportunities to learn through real-world projects**.
+
+If you're interested in collaborating, discussing a project, or simply connecting, feel free to reach out.
+
+<div align="center">
+
+<a href="mailto:afzalsfm@gmail.com">
+  <img src="https://img.shields.io/badge/Email-afzalsfm%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mohamed-afzal-0b7372305/">
+  <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Afzal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://mohamed-afzal-lovat.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-2F81F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Mohamed-Afzal0&label=Profile%20Views&color=2F81F7&style=flat" alt="Profile views"/>
+
+</div>
