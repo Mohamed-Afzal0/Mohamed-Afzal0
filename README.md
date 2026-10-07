@@ -74,65 +74,6 @@ I enjoy learning by building projects and experimenting with new tools. I'm part
 
 ---
 
-## 🚀 Featured Projects
-
-### 🧠 MindWave — Student Mental Health App
-
-A cross-platform student wellness application developed as a university group project.
-
-**My role:** Team Leader
-
-**Highlights:**
-
-* Led a **6-member development team**
-* Developed features using **React Native and Expo**
-* Integrated the **OpenAI API** for an AI chatbot experience
-* Worked with backend services and persistent data storage
-* Used **Docker** for backend containerization
-* Deployed backend services through **Railway**
-* Used **GitHub Actions** for automated development workflows
-
-🔗 **[View Project](https://mindwave-app.com)**
-
----
-
-### 📊 Server Monitor Dashboard
-
-An independent project created to strengthen my understanding of backend development, system monitoring, APIs, and containerization.
-
-**Built with:**
-
-`Python` `Flask` `psutil` `JavaScript` `Chart.js` `Docker` `Docker Compose`
-
-**Features:**
-
-* Real-time CPU, memory, disk, and network monitoring
-* Flask REST API for system telemetry
-* Interactive Chart.js dashboard
-* Docker Compose-based local deployment
-* Threshold-based browser notifications
-
-🔗 **[View Repository](https://github.com/Mohamed-Afzal0/Server-Monitor)**
-
----
-
-### 🌐 Personal Portfolio
-
-My personal developer portfolio built with React and Vite.
-
-**Highlights:**
-
-* Responsive React interface
-* Animated UI using Framer Motion
-* Project showcase and contact functionality
-* GitHub-based deployment through Vercel
-* Docker and GitHub Actions used for development and CI/CD practice
-
-🔗 **[Live Website](https://mohamed-afzal-lovat.vercel.app)**
-🔗 **[Source Code](https://github.com/Mohamed-Afzal0/Mohamed_Afzal)**
-
----
-
 ## 📈 GitHub Activity
 
 <div align="center">
@@ -154,44 +95,6 @@ My personal developer portfolio built with React and Vite.
 <img src="https://streak-stats.demolab.com/?user=Mohamed-Afzal0&theme=github-dark-blue&hide_border=true" alt="Mohamed Afzal's GitHub contribution streak"/>
 
 </div>
-
----
-
-## 📊 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-Afzal0&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
-
-</div>
-
----
-
-## 🎯 Currently Learning
-
-```text
-Software Engineering
-├── Full-Stack Development
-│   ├── React
-│   ├── JavaScript
-│   ├── Node.js
-│   └── APIs
-│
-├── Databases
-│   ├── SQL
-│   ├── Firebase
-│   └── Supabase
-│
-├── Development Practices
-│   ├── Git & GitHub
-│   ├── Docker
-│   └── CI/CD
-│
-└── Exploring
-    ├── AI-assisted development
-    ├── Automation
-    └── Modern developer tooling
-```
 
 ---
 
